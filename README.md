@@ -1,7 +1,8 @@
-# Silli18
-RP2040 based macropad, which uses QMK firmware with Vial support.
+# Silakka18
+RP2040 based macropad with hotswap sockets. Microcontroller uses QMK firmware with Vial support. Based on the [Silli18](https://github.com/Squalius-cephalus/silli18 "Silli18") project, but the firmware is not compatible between them.
 
-![](https://raw.githubusercontent.com/Squalius-cephalus/silli18/main/silli18.png)
+
+![](https://raw.githubusercontent.com/Squalius-cephalus/silakka18/main/image.png)
 
 ## Bill of materials
 
@@ -12,6 +13,7 @@ RP2040 based macropad, which uses QMK firmware with Vial support.
  - 2 x EC11 Rotary encoders
  - 16 x MX style mechanical switches
  - 16 x MX compatible keycaps
+ - 16 x Kailh Hotswap Sockets
  - 8 x M2 4mm bolt
  - 8 x M2 brass inserts 
  - 8x Rubber feet
